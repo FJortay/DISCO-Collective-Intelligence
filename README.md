@@ -126,6 +126,7 @@ DIOS follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) c
 
 Help improve this first draft README. 
 
+---
 
 ### **8. Conclusion**
 
