@@ -1,12 +1,16 @@
-# **DICOS Societal Project**  
-Basic principles of a universal co-management system
+## **DICOS Societal Project**  
+Basic principles for a IA based & universal co-management IT system
 
-- [1. IT Infrastructure (Back-office)](#1-it-infrastructure-back-office)
-- [2. IT Superstructure (Front-office)](#2-it-infrastructure-front-office)
-- [3. IH + AI = CI](#3-ih+ai=ci)
-- [4. Systemic Model](#4-systemic-model)
-- [5. Project Phases](#5-project-phases)
-- [6. Conclusion](#6-conclusion)
+- [1. Summary](#1-summary)
+- [2. IT Infrastructure (Back-office)](#2-it-infrastructure-back-office)
+- [3. IT Superstructure (Front-office)](#3-it-superstructure-front-office)
+- [4. HI + AI = CI](#4-hi--ai--ci)
+- [5. Systemic Model](#5-systemic-model)
+- [6. Project Phases](#6-project-phases)
+- [7. How To Participate](#7-how-to-participate)
+- [8. Conclusion](#8-conclusion)
+
+### 1. Summary  
 
 This project aims to lay the foundations of a **universal and intelligent IT System for collective management**, usable by any type of organization, regardless of its activity or size.  
 
@@ -18,9 +22,11 @@ The main objectives are to:
 
 Until the early 2020s, a project like DICOS seemed utopian. However, the rise of AI now makes its implementation conceivable.  
 
+*This is a "[Building AI course project](https://buildingai.elementsofai.com/)".*
+
 ---
 
-## **1. IT Infrastructure (Back-office)**  
+### **2. IT Infrastructure (Back-office)**  
 
 DICOS’s infrastructure is based on four fundamental principles:  
 
@@ -40,7 +46,7 @@ DICOS’s infrastructure is based on four fundamental principles:
 
 ---
 
-## **2. IT Superstructure (Front-office)**  
+### **3. IT Superstructure (Front-office)**  
 
 The superstructure consists of three functional modules, linked in chronological order:  
 
@@ -67,7 +73,7 @@ These three steps are essential in each of the **four key functions** of organiz
 - **Operational Management**  
   Implementing decisions and organizing the necessary resources to carry them out.  
 
-### **Automation through Smart Contracts**  
+#### **Automation through Smart Contracts**  
 
 A decentralized network is a prerequisite for a universal collective management system. However, managing the complexity of such a network—especially at scale—requires automation. This is where AI comes in, with its data processing and automation capabilities.  
 
@@ -77,7 +83,7 @@ For example, **smart contracts** can automatically trigger preventive procedures
 
 ---
 
-## **3. IH + AI = CI**  
+### **4. HI + AI = CI**  
 
 DICOS relies on the synergy between human intelligence (IH) and artificial intelligence (AI), resulting in collective intelligence (CI):  
 
@@ -91,9 +97,9 @@ This combination fosters collective intelligence characterized by:
 
 ---
 
-## **4. Systemic Model**  
+### **5. Systemic Model**  
 
-DIOS follows a simplified OSI model consisting of two complementary layers:  
+DIOS follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
 
 - **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
   A suite of application modules (forum, collective drafting, voting) that serves as the interface for interaction and collective decision-making.  
@@ -103,19 +109,26 @@ DIOS follows a simplified OSI model consisting of two complementary layers:
 
 ---
 
-## **5. Project Phases**  
+### **6. Project Phases**  
 
 1. **Collaborative refinement of [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System) repositories**  
    Optimizing documentation, clarifying the vision, and defining technical specifications in collaboration with the community.  
 
 2. **Integration of existing software solutions**  
    Assembling proven modules to progressively build the desired system.
+   
+3. **Definition of integration standards**  
+   Identifying gaps, establishing norms and protocols for developing new modules, ensuring system coherence and scalability. 
 
 ---
 
-## **6. Conclusion**
+### **7. How to Participate**
+
+Help improve this first draft README. 
+
+
+### **8. Conclusion**
 
 DICOS is a societal system that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
 
-4. **Definition of integration standards**  
-   Identifying gaps, establishing norms and protocols for developing new modules, ensuring system coherence and scalability.  
+ 
