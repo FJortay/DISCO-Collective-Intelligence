@@ -1,5 +1,5 @@
 ## **DICOS Societal Project**  
-Basic principles for a IA based & universal co-management IT system
+Basic principles for a universal and intelligent co-management IT system
 
 - [1. Summary](#1-summary)
 - [2. IT Infrastructure (Back-office)](#2-it-infrastructure-back-office)
