@@ -1,4 +1,4 @@
-## **DICOS Societal Project**  
+## **DICOS Collective intelligence**  
 Basic principles for a universal and intelligent co-management IT system
 
 - [1. Summary](#1-summary)
@@ -99,7 +99,7 @@ This combination fosters collective intelligence characterized by:
 
 ### **5. Systemic Model**  
 
-DIOS follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
+DICOS follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
 
 - **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
   A suite of application modules (forum, collective drafting, voting) that serves as the interface for interaction and collective decision-making.  
@@ -130,6 +130,6 @@ Help improve this first draft README.
 
 ### **8. Conclusion**
 
-DICOS is a societal system that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
+DICOS is a societal project that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
 
  
