@@ -10,126 +10,126 @@ Basic principles for a universal and intelligent co-management IT system
 - [7. How To Participate](#7-how-to-participate)
 - [8. Conclusion](#8-conclusion)
 
-### 1. Summary  
+### 1. Summary
 
-This project aims to lay the foundations of a **universal and intelligent IT System for collective management**, usable by any type of organization, regardless of its activity or size.  
+This project establishes the foundation for a **universal and intelligent co-management IT system** that can be adopted by any organization regardless of its size or field of activity. Its key objectives are to:
 
-The main objectives are to:  
+- Define **universal elementary principles** for operating, designing, and developing a co-management system enriched by AI capabilities.
+- Evaluate and select **existing software solutions** that can be modularly integrated.
+- Set **integration standards** to ensure compatibility between current modules and future developments.
 
-- Define **universal elementary principles** for the operation, design, and development of such a co-management system, integrating AI’s potential.  
-- Conduct an **assessment** of existing software solutions that could serve as modules.  
-- Establish **integration standards** applicable to both existing and future modules.  
-
-Until the early 2020s, a project like DISCO seemed utopian. However, the rise of AI now makes its implementation conceivable.  
+What was once considered a utopian vision until the early 2020s is now within reach—thanks to the transformative rise of AI.
 
 *This is a "[Building AI course project](https://buildingai.elementsofai.com/)".*
 
 ---
 
-### **2. IT Infrastructure (Back-office)**  
+### **2. IT Infrastructure (Back-office)**
 
-DISCO’s infrastructure is based on four fundamental principles:  
+DISCO’s back-office is founded on four core principles:
 
-- **Decentralized and wireless network**  
-  Each citizen has a personal computing node, forming a building block of a distributed network. This network pools data collection, storage, and processing capabilities, serving as the foundation of collective intelligence.  
+- **Decentralized and Wireless Network**  
+  Each citizen operates a personal computing node that contributes to a distributed network, collectively handling data collection, storage, and processing. This forms the essential backbone of our collective intelligence.
 
-- **Modular structure**  
-  A flexible architecture allowing modules to be integrated, replaced, or upgraded as needed and as technology advances.  
+- **Modular Structure**  
+  The architecture is designed for flexibility, enabling the seamless integration, replacement, or upgrade of modules as technological needs evolve.
 
-- **Open-source software**  
-  Using open-source solutions ensures transparency, auditability, and collaboration, securing the system’s independence and sustainability.  
+- **Open-Source Software**  
+  Relying on open-source solutions guarantees transparency, auditability, and community collaboration, thereby securing the system’s independence and long-term sustainability.
 
 - **Artificial Intelligence**  
-  Thanks to its capabilities (massive data analysis, process automation, decision optimization), AI:  
-  - facilitates the design, development, and management of the collective management system;  
-  - enhances the system’s functional potential.  
+  With capabilities in massive data analysis, process automation, and decision optimization, AI:
+  - Aids in the design, development, and management of the collective system.
+  - Enhances overall system functionality and adaptability.
 
 ---
 
-### **3. IT Superstructure (Front-office)**  
+### **3. IT Superstructure (Front-office)**
 
-The superstructure consists of three functional modules, linked in chronological order:  
+The front-office comprises three sequential functional modules:
 
 1. **Forum**  
-   A space for discussion and debate where popular initiatives originate. Citizens express ideas and discuss issues. Sometimes, a proposal emerges and moves to the next phase…  
+   A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
 
 2. **Collective Drafting**  
-   A collaborative platform for structuring and formalizing proposals. Contributors can edit, refine, and co-develop a proposal. Often, it is then submitted for voting…  
+   A collaborative environment for structuring and refining proposals. Through iterative co-development, ideas are polished and prepared for formal submission.
 
 3. **Voting**  
-   The proposal, collectively drafted following a popular initiative, is submitted for a vote.  
+   Once a proposal is collectively refined, it is submitted to a democratic vote.
 
-These three steps are essential in each of the **four key functions** of organizational management:  
+These steps underpin the four essential functions of organizational management:
 
 - **Control**  
-  Ensuring compliance with operational rules (e.g., the statutes and regulations of an association, or the laws and Constitution of a state).  
+  Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
 
 - **Audit**  
-  Continuous improvement of operational rules and identification of necessary adjustments.  
+  Continuously reviewing and improving operational rules through feedback and analysis.
 
 - **Project Management**  
-  Planning, coordinating, and monitoring projects aimed at developing the organization.  
+  Coordinating and monitoring initiatives aimed at organizational development.
 
 - **Operational Management**  
-  Implementing decisions and organizing the necessary resources to carry them out.  
+  Implementing decisions and organizing resources for efficient execution.
 
-#### **Automation through Smart Contracts**  
+#### **Automation through Smart Contracts**
 
-A decentralized network is a prerequisite for a universal collective management system. However, managing the complexity of such a network—especially at scale—requires automation. This is where AI comes in, with its data processing and automation capabilities.  
+In a decentralized network, managing complexity—especially at scale—necessitates automation. AI’s data processing prowess enables smart contracts to, for instance:
 
-For example, **smart contracts** can automatically trigger preventive procedures such as:  
-- enforcing a specific rule in an association’s internal regulations or a national law when non-compliance is detected;  
-- regulating the DIOS network’s workload in case of excessive activity or an energy deficit.  
-
----
-
-### **4. HI + AI = CI**  
-
-DISCO relies on the synergy between human intelligence (IH) and artificial intelligence (AI), resulting in collective intelligence (CI):  
-
-- **Human Intelligence**: Creativity, expertise, and civic engagement.  
-- **Artificial Intelligence**: Distributed processing power and automated data analysis.  
-
-This combination fosters collective intelligence characterized by:  
-
-- **Emergence**: The whole exceeds the sum of individual contributions.  
-- **Plasticity**: Real-time adaptation to environmental changes.  
+- Automatically enforce specific rules within an organization’s internal regulations or national laws upon detecting non-compliance.
+- Regulate network workload (as in the DIOS system) in response to surges in activity or energy shortages.
 
 ---
 
-### **5. Systemic Model**  
+### **4. HI + AI = CI**
 
-DISCO follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
+DISCO leverages the synergy between Human Intelligence (HI) and Artificial Intelligence (AI) to create a robust Collective Intelligence (CI):
+
+- **Human Intelligence:**  
+  Encompasses creativity, expertise, and civic engagement.
+
+- **Artificial Intelligence:**  
+  Provides distributed processing power and automated data analysis.
+
+Together, they foster a CI characterized by:
+
+- **Emergence:**  
+  The collective outcome surpasses the simple sum of individual inputs.
+- **Plasticity:**  
+  The system adapts in real time to environmental changes.
+
+---
+
+### **5. Systemic Model**
+
+DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
 
 - **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
-  A suite of application modules (forum, collective drafting, voting) that serves as the interface for interaction and collective decision-making.  
+  This layer provides application modules (forum, collective drafting, voting) that facilitate interaction and collective decision-making.
 
 - **Infrastructure (Back-end) – [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System)**  
-  The operating system managing the decentralized and wireless network, handling data collection, storage, and processing for collective intelligence.  
+  It underpins the decentralized network by managing data collection, storage, and processing, which are vital for sustaining collective intelligence.
 
 ---
 
-### **6. Project Phases**  
+### **6. Project Phases**
 
-1. **Collaborative refinement of [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System) repositories**  
-   Optimizing documentation, clarifying the vision, and defining technical specifications in collaboration with the community.  
+1. **Collaborative Refinement**  
+   Work with the community to enhance the [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System) repositories by optimizing documentation, clarifying the vision, and detailing technical specifications.
 
-2. **Integration of existing software solutions**  
-   Assembling proven modules to progressively build the desired system.
-   
-3. **Definition of integration standards**  
-   Identifying gaps, establishing norms and protocols for developing new modules, ensuring system coherence and scalability. 
+2. **Integration of Existing Solutions**  
+   Assemble and interconnect proven software modules progressively to construct the desired system.
+
+3. **Definition of Integration Standards**  
+   Identify existing gaps and establish clear norms and protocols to support the scalable development of new modules.
 
 ---
 
-### **7. How to Participate**
+### **7. How To Participate**
 
-Help improve this first draft README. 
+Contribute to the evolution of this draft README. Your feedback and ideas are essential for advancing the DISCO platform into a fully realized system of collective intelligence.
 
 ---
 
 ### **8. Conclusion**
 
-DISCO is a societal project that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
-
- 
+DISCO represents a societal project that articulates the foundational principles for building a universal direct democracy system—applicable to any organization regardless of size or sector. The ultimate aim is to harness true collective intelligence through an innovative, AI-enhanced infrastructure.
