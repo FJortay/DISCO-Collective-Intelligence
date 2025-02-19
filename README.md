@@ -1,4 +1,4 @@
-## **DICOS Collective intelligence**  
+## **DISCO Collective intelligence**  
 Basic principles for a universal and intelligent co-management IT system
 
 - [1. Summary](#1-summary)
@@ -20,7 +20,7 @@ The main objectives are to:
 - Conduct an **assessment** of existing software solutions that could serve as modules.  
 - Establish **integration standards** applicable to both existing and future modules.  
 
-Until the early 2020s, a project like DICOS seemed utopian. However, the rise of AI now makes its implementation conceivable.  
+Until the early 2020s, a project like DISCO seemed utopian. However, the rise of AI now makes its implementation conceivable.  
 
 *This is a "[Building AI course project](https://buildingai.elementsofai.com/)".*
 
@@ -28,7 +28,7 @@ Until the early 2020s, a project like DICOS seemed utopian. However, the rise of
 
 ### **2. IT Infrastructure (Back-office)**  
 
-DICOS’s infrastructure is based on four fundamental principles:  
+DISCO’s infrastructure is based on four fundamental principles:  
 
 - **Decentralized and wireless network**  
   Each citizen has a personal computing node, forming a building block of a distributed network. This network pools data collection, storage, and processing capabilities, serving as the foundation of collective intelligence.  
@@ -85,7 +85,7 @@ For example, **smart contracts** can automatically trigger preventive procedures
 
 ### **4. HI + AI = CI**  
 
-DICOS relies on the synergy between human intelligence (IH) and artificial intelligence (AI), resulting in collective intelligence (CI):  
+DISCO relies on the synergy between human intelligence (IH) and artificial intelligence (AI), resulting in collective intelligence (CI):  
 
 - **Human Intelligence**: Creativity, expertise, and civic engagement.  
 - **Artificial Intelligence**: Distributed processing power and automated data analysis.  
@@ -99,7 +99,7 @@ This combination fosters collective intelligence characterized by:
 
 ### **5. Systemic Model**  
 
-DICOS follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
+DISCO follows a simplified [OSI model](https://en.wikipedia.org/wiki/OSI_model) consisting of two complementary layers:  
 
 - **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
   A suite of application modules (forum, collective drafting, voting) that serves as the interface for interaction and collective decision-making.  
@@ -130,6 +130,6 @@ Help improve this first draft README.
 
 ### **8. Conclusion**
 
-DICOS is a societal project that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
+DISCO is a societal project that defines the fundamental principles of the infrastructure and superstructure of a universal direct democracy system, applicable to any type of organization regardless of its size or sector. The goal is to build true collective intelligence.
 
  
