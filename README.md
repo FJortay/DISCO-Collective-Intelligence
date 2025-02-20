@@ -57,7 +57,7 @@ The front-office comprises three sequential functional modules:
 3. **Voting**  
    Once a proposal is collectively refined, it is submitted to a democratic vote.
 
-These steps underpin the four essential functions of organizational management:
+These steps underpin each of the four essential functions of organizational management:
 
 - **Control**  
   Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
@@ -126,7 +126,7 @@ DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) 
 
 ### **7. How To Participate**
 
-Contribute to the evolution of this draft README. Your feedback and ideas are essential for advancing the DISCO platform into a fully realized system of collective intelligence.
+Contribute to the evolution of this draft README. Your feedback and ideas are essential for advancing the DISCO platform into a fully realized —and continually evolving— system of collective intelligence.
 
 ---
 
