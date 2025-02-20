@@ -26,7 +26,7 @@ What was once considered a utopian vision until the early 2020s is now within re
 
 ### **2. IT Superstructure (Front-office)**
 
-#### Three sequential functional modules:
+DISCO’s front-office comprises three sequential functional modules:
 
 1. **Forum**  
    A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
@@ -37,7 +37,7 @@ What was once considered a utopian vision until the early 2020s is now within re
 3. **Voting**  
    Once a proposal is collectively refined, it is submitted to a democratic vote.
 
-#### These steps underpin each of the four essential functions of organizational management:
+Note that these steps apply to each of the four essential functions of organizational management:
 
 - **Control**  
   Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
@@ -51,15 +51,13 @@ What was once considered a utopian vision until the early 2020s is now within re
 - **Operational Management**  
   Implementing decisions and organizing resources for efficient execution.
 
-#### **Artificial Intelligence**
-
-AI streamlines DISCO's front-office by automating forum moderation and summarization, enhancing real-time drafting with intelligent editing, and securing voting through impact simulation and anomaly detection.
+**Articial Intelligence** streamlines DISCO's front-office by automating forum moderation and summarization, enhancing real-time drafting with intelligent editing, and securing voting through impact simulation and anomaly detection.
 
 ---
 
 ### **3. IT Infrastructure (Back-office)**
 
-DISCO’s back-office is founded on four core principles:
+The back-office is founded on four core principles:
 
 - **Decentralized and Wireless Network**  
   Each citizen operates a personal computing node that contributes to a distributed network, collectively handling data collection, storage, and processing. This forms the essential backbone of our collective intelligence.
@@ -73,7 +71,7 @@ DISCO’s back-office is founded on four core principles:
 - **Artificial Intelligence**  
   With capabilities in massive data analysis, process automation, and decision optimization, AI:
   - Aids in the design, development, and management of the collective system.
-  - Enhances overall system functionality and adaptability (exemple : regulate network workload (as in the DIOS system) in response to surges in activity or energy shortages).
+  - Enhances overall system functionality and adaptability (example : regulate network workload in response to surges in activity or energy shortages).
 
 
 ---
