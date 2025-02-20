@@ -53,7 +53,7 @@ What was once considered a utopian vision until the early 2020s is now within re
 
 #### **Artificial Intelligence**
 
-Comment l'AI peut rationnaliser les processus ci-dessus.
+AI streamlines DISCO's front-office by automating forum moderation and summarization, enhancing real-time drafting with intelligent editing, and securing voting through impact simulation and anomaly detection.
 
 ---
 
@@ -73,7 +73,7 @@ DISCO’s back-office is founded on four core principles:
 - **Artificial Intelligence**  
   With capabilities in massive data analysis, process automation, and decision optimization, AI:
   - Aids in the design, development, and management of the collective system.
-  - Enhances overall system functionality and adaptability.
+  - Enhances overall system functionality and adaptability (exemple : regulate network workload (as in the DIOS system) in response to surges in activity or energy shortages).
 
 
 ---
