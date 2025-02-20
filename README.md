@@ -4,8 +4,8 @@ Basic principles for a universal and intelligent co-management IT system
 - [1. Summary](#1-summary)
 - [2. IT Superstructure (Front-office)](#2-it-superstructure-front-office)
 - [3. IT Infrastructure (Back-office)](#3-it-infrastructure-back-office)
-- [4. HI + AI = CI](#4-hi--ai--ci)
-- [5. Systemic Model](#5-systemic-model)
+- [4. Systemic Model](#4-systemic-model)
+- [5. HI + AI = CI](#5-hi--ai--ci)
 - [6. Project Phases](#6-project-phases)
 - [7. How To Participate](#7-how-to-participate)
 - [8. Conclusion](#8-conclusion)
@@ -73,10 +73,22 @@ The back-office is founded on four core principles:
   - Aids in the design, development, and management of the collective system.
   - Enhances overall system functionality and adaptability (example : regulate network workload in response to surges in activity or energy shortages).
 
+---
+
+
+### **4. Systemic Model**
+
+DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
+
+- **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
+  This layer provides application modules (forum, collective drafting, voting) that facilitate interaction and collective decision-making.
+
+- **Infrastructure (Back-end) – [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System)**  
+  It underpins the decentralized network by managing data collection, storage, and processing, which are vital for sustaining collective intelligence.
 
 ---
 
-### **4. HI + AI = CI**
+### **5. HI + AI = CI**
 
 DISCO leverages the synergy between Human Intelligence (HI) and Artificial Intelligence (AI) to create a robust Collective Intelligence (CI):
 
@@ -92,18 +104,6 @@ Together, they foster a CI characterized by:
   The collective outcome surpasses the simple sum of individual inputs.
 - **Plasticity:**  
   The system adapts in real time to environmental changes.
-
----
-
-### **5. Systemic Model**
-
-DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
-
-- **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
-  This layer provides application modules (forum, collective drafting, voting) that facilitate interaction and collective decision-making.
-
-- **Infrastructure (Back-end) – [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System)**  
-  It underpins the decentralized network by managing data collection, storage, and processing, which are vital for sustaining collective intelligence.
 
 ---
 
