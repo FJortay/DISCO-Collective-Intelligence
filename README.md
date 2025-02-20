@@ -2,8 +2,8 @@
 Basic principles for a universal and intelligent co-management IT system
 
 - [1. Summary](#1-summary)
-- [2. IT Infrastructure (Back-office)](#2-it-infrastructure-back-office)
-- [3. IT Superstructure (Front-office)](#3-it-superstructure-front-office)
+- [2. IT Superstructure (Front-office)](#2-it-superstructure-front-office)
+- [3. IT Infrastructure (Back-office)](#3-it-infrastructure-back-office)
 - [4. HI + AI = CI](#4-hi--ai--ci)
 - [5. Systemic Model](#5-systemic-model)
 - [6. Project Phases](#6-project-phases)
@@ -24,7 +24,40 @@ What was once considered a utopian vision until the early 2020s is now within re
 
 ---
 
-### **2. IT Infrastructure (Back-office)**
+### **2. IT Superstructure (Front-office)**
+
+#### Three sequential functional modules:
+
+1. **Forum**  
+   A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
+
+2. **Collective Drafting**  
+   A collaborative environment for structuring and refining proposals. Through iterative co-development, ideas are polished and prepared for formal submission.
+
+3. **Voting**  
+   Once a proposal is collectively refined, it is submitted to a democratic vote.
+
+#### These steps underpin each of the four essential functions of organizational management:
+
+- **Control**  
+  Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
+
+- **Audit**  
+  Continuously reviewing and improving operational rules through feedback and analysis.
+
+- **Project Management**  
+  Coordinating and monitoring initiatives aimed at organizational development.
+
+- **Operational Management**  
+  Implementing decisions and organizing resources for efficient execution.
+
+#### **Artificial Intelligence**
+
+Comment l'AI peut rationnaliser les processus ci-dessus.
+
+---
+
+### **3. IT Infrastructure (Back-office)**
 
 DISCO’s back-office is founded on four core principles:
 
@@ -42,41 +75,6 @@ DISCO’s back-office is founded on four core principles:
   - Aids in the design, development, and management of the collective system.
   - Enhances overall system functionality and adaptability.
 
----
-
-### **3. IT Superstructure (Front-office)**
-
-The front-office comprises three sequential functional modules:
-
-1. **Forum**  
-   A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
-
-2. **Collective Drafting**  
-   A collaborative environment for structuring and refining proposals. Through iterative co-development, ideas are polished and prepared for formal submission.
-
-3. **Voting**  
-   Once a proposal is collectively refined, it is submitted to a democratic vote.
-
-These steps underpin each of the four essential functions of organizational management:
-
-- **Control**  
-  Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
-
-- **Audit**  
-  Continuously reviewing and improving operational rules through feedback and analysis.
-
-- **Project Management**  
-  Coordinating and monitoring initiatives aimed at organizational development.
-
-- **Operational Management**  
-  Implementing decisions and organizing resources for efficient execution.
-
-#### **Automation through Smart Contracts**
-
-In a decentralized network, managing complexity—especially at scale—necessitates automation. AI’s data processing prowess enables smart contracts to, for instance:
-
-- Automatically enforce specific rules within an organization’s internal regulations or national laws upon detecting non-compliance.
-- Regulate network workload (as in the DIOS system) in response to surges in activity or energy shortages.
 
 ---
 
