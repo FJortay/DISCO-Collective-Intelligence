@@ -24,7 +24,7 @@ What was once considered a utopian vision until the early 2020s is now within re
 
 ---
 
-## **2. IT Superstructure (Front-office)**
+## 2. IT Superstructure (Front-office
 
 DISCO’s front-office comprises three sequential functional modules:
 
@@ -55,7 +55,7 @@ Note that these steps apply to each of the four essential functions of organizat
 
 ---
 
-## **3. IT Infrastructure (Back-office)**
+## 3. IT Infrastructure (Back-office)
 
 The back-office is founded on four core principles:
 
@@ -76,7 +76,7 @@ The back-office is founded on four core principles:
 ---
 
 
-## **4. Systemic Model**
+## 4. Systemic Model
 
 DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
 
@@ -88,7 +88,7 @@ DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) 
 
 ---
 
-## **5. HI + AI = CI**
+## 5. HI + AI = CI
 
 DISCO leverages the synergy between Human Intelligence (HI) and Artificial Intelligence (AI) to create a robust Collective Intelligence (CI):
 
@@ -107,7 +107,7 @@ Together, they foster a CI characterized by:
 
 ---
 
-## **6. Project Phases**
+## 6. Project Phases
 
 1. **Collaborative Refinement**  
    Work with the community to enhance the [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System) repositories by optimizing documentation, clarifying the vision, and detailing technical specifications.
@@ -120,12 +120,12 @@ Together, they foster a CI characterized by:
 
 ---
 
-## **7. How To Participate**
+## 7. How To Participate
 
 Contribute to the evolution of this draft README. Your feedback and ideas are essential for advancing the DISCO platform into a fully realized —and continually evolving— system of collective intelligence.
 
 ---
 
-## **8. Conclusion**
+## 8. Conclusion
 
 DISCO represents a societal project that articulates the foundational principles for building a universal direct democracy system—applicable to any organization regardless of size or sector. The ultimate aim is to harness true collective intelligence through an innovative, AI-enhanced infrastructure.
