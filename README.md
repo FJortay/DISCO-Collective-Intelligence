@@ -6,9 +6,8 @@ Basic principles for a universal and intelligent co-management IT system
 - [2. IT Infrastructure (Back-office)](#2-it-infrastructure-back-office)
 - [3. Systemic Model](#3-systemic-model)
 - [4. HI + AI = CI](#4-hi--ai--ci)
-- [5. Project Phases](#5-project-phases)
-- [6. How To Participate](#6-how-to-participate)
-- [7. Conclusion](#7-conclusion)
+- [5. How To Participate](#5-how-to-participate)
+- [6. Conclusion](#6-conclusion)
 
 ## Summary
 
@@ -107,25 +106,12 @@ Together, they foster a CI characterized by:
 
 ---
 
-## 5. Project Phases
+## 5. How To Participate
 
-1. **Collaborative Refinement**  
-   Work with the community to enhance the [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System) repositories by optimizing documentation, clarifying the vision, and detailing technical specifications.
-
-2. **Integration of Existing Solutions**  
-   Assemble and interconnect proven software modules progressively to construct the desired system.
-
-3. **Definition of Integration Standards**  
-   Identify existing gaps and establish clear norms and protocols to support the scalable development of new modules.
+Contribute to the evolution of this draft README, or dive into DISCO's constituent projects [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System).
 
 ---
 
-## 6. How To Participate
-
-Contribute to the evolution of this draft README. Your feedback and ideas are essential for advancing the DISCO platform into a fully realized —and continually evolving— system of collective intelligence.
-
----
-
-## 7. Conclusion
+## 6. Conclusion
 
 DISCO represents a societal project that articulates the foundational principles for building a universal direct democracy system—applicable to any organization regardless of size or sector. The ultimate aim is to harness true collective intelligence through an innovative, AI-enhanced infrastructure.
