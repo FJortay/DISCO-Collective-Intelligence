@@ -31,7 +31,7 @@ DISCO’s front-office comprises modules for the three basic sequential function
 1. **Forum**  
    A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
 
-2. **Collective Drafting**  
+2. **Drafting**  
    A collaborative environment for structuring and refining proposals. Through iterative co-development, ideas are polished and prepared for formal submission.
 
 3. **Voting**  
@@ -67,7 +67,7 @@ The back-office is founded on four core principles:
 DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
 
 - **Superstructure (Front-end) – [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System)**  
-  This layer provides application modules (forum, collective drafting, voting) that facilitate interaction and collective decision-making.
+  This layer provides application modules (forum, drafting, voting) that facilitate interaction and collective decision-making.
 
 - **Infrastructure (Back-end) – [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System)**  
   It underpins the decentralized network by managing data collection, storage, and processing, which are vital for sustaining collective intelligence.
