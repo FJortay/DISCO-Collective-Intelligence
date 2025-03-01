@@ -26,7 +26,7 @@ What was once considered a utopian vision until the early 2020s is now within re
 
 ## 1. IT Superstructure (Front-office
 
-DISCO’s front-office comprises three sequential functional modules:
+DISCO’s front-office comprises modules for the three basic sequential functions of collective decision making:
 
 1. **Forum**  
    A dedicated space for discussion and debate, where citizens can share ideas and initiate proposals.
@@ -36,20 +36,6 @@ DISCO’s front-office comprises three sequential functional modules:
 
 3. **Voting**  
    Once a proposal is collectively refined, it is submitted to a democratic vote.
-
-Note that these steps apply to each of the four essential functions of organizational management:
-
-- **Control**  
-  Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
-
-- **Audit**  
-  Continuously reviewing and improving operational rules through feedback and analysis.
-
-- **Project Management**  
-  Coordinating and monitoring initiatives aimed at organizational development.
-
-- **Operational Management**  
-  Implementing decisions and organizing resources for efficient execution.
 
 **Articial Intelligence** streamlines DISCO's front-office by automating forum moderation and summarization, enhancing real-time drafting with intelligent editing, and securing voting through impact simulation and anomaly detection.
 
@@ -117,9 +103,19 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 Once DISCO is operational, the following applications can be integrated into it:
 
-- at the **collective and management** level : a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
+- at the **collective and management** level :
+
+   - **Control**  
+  Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
+
+   - **Audit**  
+  Continuously reviewing and improving operational rules through feedback and analysis.
+
+   - **Project Management**  
+  Coordinating and monitoring initiatives aimed at organizational development.
 
 - at the **individual and production** level : a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+
 
 ---
 
