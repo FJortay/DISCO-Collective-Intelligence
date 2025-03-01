@@ -22,7 +22,7 @@ DISCO is composed on two sub-projects :
 
 Further development : DICS will be supplemented by new collaborative applications for basic management functions : control & audit, project management.
 
-DISCO (DICS on DIOS) leverages the synergy between human and artificial intelligence to create an effective collective intelligence : HI+AI=CI.
+DISCO (DICS on DIOS) leverages the synergy between human and artificial intelligence to create an effective collective intelligence (HI+AI=CI) for direct democracy.
 
 *This is a "[Building AI course project](https://buildingai.elementsofai.com/)".*
 
