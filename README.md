@@ -12,14 +12,14 @@ Basic principles for a universal and intelligent co-management IT system
 
 ## Summary
 
-Thie DISCO project lays the foundation for a **universal IT system for collective intelligence**. "Universal" means that it can be used by any organization regardless of its size or field of activity, from local associations to the State. 
+The DISCO project lays the foundation for a ***universal IT system for collective intelligence***. "Universal" means that it can be used by any organization regardless of its size or field of activity, from local associations to the State. 
 
 DISCO is composed on two sub-projects :
 
-- [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System) : applications for collaborative decision making; 
+- [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System) : applications for collaborative decision making;
 
-- [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System) : operating system for a decentralized and wireless network. 
-  
+- [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System) : operating system for a decentralized and wireless network.
+
 Further development : DICS will be supplemented by new collaborative applications for basic management functions : control & audit, project management.
 
 DISCO (DICS on DIOS) leverages the synergy between human and artificial intelligence to create an effective collective intelligence : HI+AI=CI.
