@@ -99,7 +99,7 @@ Together, they foster a CI characterized by:
 
 ## 5. How To Participate
 
-Contribute to the evolution of this draft README, or dive into DISCO's constituent projects [DICS](https://github.com/FJortay/DICS-Collaborative-Management) and [DIOS](https://github.com/FJortay/DIOS-Operating-System).
+Contribute to the evolution of this draft README, or dive into DISCO's constituent projects [DICS](https://github.com/FJortay/DICS-Collaborating-System) and [DIOS](https://github.com/FJortay/DIOS-Operating-System).
 
 ---
 
