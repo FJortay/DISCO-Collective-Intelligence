@@ -12,13 +12,17 @@ Basic principles for a universal and intelligent co-management IT system
 
 ## Summary
 
-This project lays the foundation for a **universal and intelligent co-management IT system** that can be adopted by any organization regardless of its size or field of activity. Its key objectives are to:
+Thie DISCO project lays the foundation for a **universal IT system for collective intelligence**. "Universal" means that it can be used by any organization regardless of its size or field of activity, from local associations to the State. 
 
-- Define **universal elementary principles** for operating, designing, and developing a co-management system enriched by AI capabilities.
-- Evaluate and select **existing software solutions** that can be modularly integrated.
-- Set **integration standards** to ensure compatibility between current modules and future developments.
+DISCO is composed on two sub-projects :
 
-What was once considered a utopian vision until the early 2020s is now within reach—thanks to the transformative rise of AI.
+- [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System) : applications for collaborative decision making; 
+
+- [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System) : operating system for a decentralized and wireless network. 
+  
+Further development : DICS will be supplemented by new collaborative applications for basic management functions : control & audit, project management.
+
+DISCO (DICS on DIOS) leverages the synergy between human and artificial intelligence to create an effective collective intelligence : HI+AI=CI.
 
 *This is a "[Building AI course project](https://buildingai.elementsofai.com/)".*
 
