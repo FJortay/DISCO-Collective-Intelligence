@@ -101,20 +101,18 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 ## 6. Further Developments
 
-Once DISCO is operational, the following applications can be integrated into it:
+Once DISCO is operational, the following modules should be integrated into it, for collaborative management of the organization:
 
-- at the **collective and management** level of the organization:
-
-   - **Control**  
+   - ***Control***  
   Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
 
-   - **Audit**  
+   - ***Audit***  
   Continuously reviewing and improving operational rules through feedback and analysis.
 
-   - **Project Management**  
+   - ***Project Management***  
   Coordinating and monitoring initiatives aimed at organizational development.
 
-- at the **individual and production** level: a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+And, finally, at the individual and production level: a module for ***micro-enterprise management*** ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
 
 
 ---
