@@ -11,7 +11,7 @@ Basic principles for a universal and intelligent co-management IT system
 
 ## Summary
 
-This project establishes the foundation for a **universal and intelligent co-management IT system** that can be adopted by any organization regardless of its size or field of activity. Its key objectives are to:
+This project lays the foundation for a **universal and intelligent co-management IT system** that can be adopted by any organization regardless of its size or field of activity. Its key objectives are to:
 
 - Define **universal elementary principles** for operating, designing, and developing a co-management system enriched by AI capabilities.
 - Evaluate and select **existing software solutions** that can be modularly integrated.
