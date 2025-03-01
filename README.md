@@ -7,7 +7,8 @@ Basic principles for a universal and intelligent co-management IT system
 - [3. Systemic Model](#3-systemic-model)
 - [4. HI + AI = CI](#4-hi--ai--ci)
 - [5. How To Participate](#5-how-to-participate)
-- [6. Conclusion](#6-conclusion)
+- [6. Further Developments](#6-further-developments)
+- [7. Conclusion](#7-conclusion)
 
 ## Summary
 
@@ -112,6 +113,14 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 ---
 
-## 6. Conclusion
+## 6. Further Developments
+
+- a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
+
+- a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+
+---
+
+## 7. Conclusion
 
 DISCO represents a societal project that articulates the foundational principles for building a universal direct democracy system—applicable to any organization regardless of size or sector. The ultimate aim is to harness true collective intelligence through an innovative, AI-enhanced infrastructure.
