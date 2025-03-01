@@ -1,5 +1,5 @@
 # **DISCO Collective intelligence**  
-Basic principles for a universal and intelligent co-management IT system
+***Project for a universal IT system for collective intelligence***
 
 - [Summary](#summary)
 - [1. IT Superstructure (Front-office)](#1-it-superstructure-front-office)
