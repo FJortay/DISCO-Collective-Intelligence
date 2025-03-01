@@ -66,7 +66,7 @@ The back-office is founded on four core principles:
 
 DISCO adopts a streamlined [OSI model](https://en.wikipedia.org/wiki/OSI_model) that is split into two interdependent layers:
 
-- **Superstructure (Front-end) – [DICS Collaborative Management](https://github.com/FJortay/DICS-Collaborative-Management)**  
+- **Superstructure (Front-end) – [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System)**  
   This layer provides application modules (forum, collective drafting, voting) that facilitate interaction and collective decision-making.
 
 - **Infrastructure (Back-end) – [DIOS Operating System](https://github.com/FJortay/DIOS-Operating-System)**  
@@ -103,7 +103,7 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 Once DISCO is operational, the following applications can be integrated into it:
 
-- at the **collective and management** level :
+- at the **collective and management** level of the organization:
 
    - **Control**  
   Ensuring that operations comply with established rules (from internal regulations to constitutional laws).
@@ -114,7 +114,7 @@ Once DISCO is operational, the following applications can be integrated into it:
    - **Project Management**  
   Coordinating and monitoring initiatives aimed at organizational development.
 
-- at the **individual and production** level : a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+- at the **individual and production** level: a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
 
 
 ---
