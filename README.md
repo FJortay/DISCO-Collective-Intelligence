@@ -117,9 +117,9 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 Once DISCO is operational, the following applications can be integrated into it:
 
-- at the *collective* level : a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
+- at the **collective and management** level : a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
 
-- at the *individual* level : a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+- at the **individual and production** level : a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
 
 ---
 
