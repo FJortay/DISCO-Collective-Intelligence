@@ -115,9 +115,11 @@ Contribute to the evolution of this draft README, or dive into DISCO's constitue
 
 ## 6. Further Developments
 
-- a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
+Once DISCO is operational, the following applications can be integrated into it:
 
-- a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
+- at the *collective* level : a ***project co-management system*** ...which will require rethinking [project management](https://en.wikipedia.org/wiki/Project_management) in a co-management design.
+
+- at the *individual* level : a ***commercial platform*** for micro-enterprise management ...integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
 
 ---
 
