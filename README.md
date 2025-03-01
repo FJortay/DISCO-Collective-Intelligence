@@ -14,7 +14,7 @@
 
 The DISCO project lays the foundation for a ***universal IT system for collective intelligence***. "Universal" means that it can be used by any organization regardless of its size or field of activity, from local associations to the State. 
 
-DISCO is composed on two sub-projects :
+DISCO is composed of two sub-projects :
 
 - [DICS Collaborating System](https://github.com/FJortay/DICS-Collaborating-System) : applications for collaborative decision making;
 
