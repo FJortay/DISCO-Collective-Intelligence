@@ -120,4 +120,4 @@ Once DISCO is operational, the following modules should be integrated into it, f
 
 ## 7. Conclusion
 
-DISCO represents a societal project that articulates the foundational principles for building a universal direct democracy system—applicable to any organization regardless of size or sector. The ultimate aim is to harness true collective intelligence through an innovative, AI-enhanced infrastructure.
+DISCO is a societal R&D project that lays the foundation for an IT system of collective intelligence, fostering a synergy between human and artificial intelligence. DISCO could trigger an evolutionary leap for human society toward the political ideal of direct democracy. Although the challenges to overcome are numerous and significant, the potential for progress toward a more efficient and humane society is remarkable.
