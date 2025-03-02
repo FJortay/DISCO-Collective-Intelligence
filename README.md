@@ -116,9 +116,6 @@ Once DISCO is operational, the following modules should be integrated into it, f
    - ***Project Management***  
   Coordinating and monitoring initiatives aimed at organizational development.
 
-And, finally, at the individual and production level: a optional module for ***micro-enterprise management*** integrating "Accounting" and "Social Secretariat" modules with  public service databases for taxation and social security.
-
-
 ---
 
 ## 7. Conclusion
